@@ -1,0 +1,15 @@
+res://scene/3/facet.tscn
+res://scene/2/mainland.tscn
+res://scene/0/game.gd
+res://script/Global.gd
+res://scene/2/planet.tscn
+res://scene/3/pool.tscn
+res://scene/3/encounter.tscn
+res://scene/3/dice.tscn
+res://scene/4/inspection.tscn
+res://scene/4/inspection.gd
+res://scene/3/encounter.gd
+res://scene/3/dice.gd
+res://scene/4/investigation.tscn
+res://scene/4/investigation.gd
+res://scene/3/facet.gd

@@ -1,0 +1,38 @@
+[
+ {
+  "title": "forest",
+  "beast": 7,
+  "tree": 9,
+  "flower": 4
+ },
+ {
+  "title": "mountain",
+  "beast": 8,
+  "ore": 9,
+  "gem": 3
+ },
+ {
+  "title": "desert",
+  "beast": 4,
+  "ore": 7,
+  "sand": 9
+ },
+ {
+  "title": "swamp",
+  "beast": 6,
+  "flower": 9,
+  "ore": 5
+ },
+ {
+  "title": "plain",
+  "beast": 9,
+  "tree": 6,
+  "flower": 5
+ },
+ {
+  "title": "coast",
+  "beast": 5,
+  "gem": 7,
+  "sand": 8
+ }
+]

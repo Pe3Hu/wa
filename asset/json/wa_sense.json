@@ -1,0 +1,26 @@
+[
+ {
+  "title": "vision",
+  "tree": 1,
+  "flower": 2,
+  "ore": 8,
+  "gem": 9,
+  "sand": 5
+ },
+ {
+  "title": "hearing",
+  "tree": 8,
+  "flower": 4,
+  "ore": 2,
+  "gem": 5,
+  "sand": 6
+ },
+ {
+  "title": "olfaction",
+  "tree": 6,
+  "flower": 9,
+  "ore": 5,
+  "gem": 1,
+  "sand": 4
+ }
+]
